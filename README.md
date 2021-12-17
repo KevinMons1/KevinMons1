@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello ! I am Kévin Monsieur and I am a frontend web developper 💻😍
 
-<!--
-**KevinMons1/KevinMons1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently 21 years old and I know de world of coding since my 15 years old 🎉
 
-Here are some ideas to get you started:
+I am passionate about Javascript and beautiful **designs to integrate**. I love animations and break my brain to create them 🧠🤯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently in the BeCode bootcamp, so every project with the name "BeCode..." is a project created for [BeCode](https://becode.org/ "BeCode") solo or in group
+
+**My prefer technologies are**
+- React.js (+ Next.js) ❤️
+- Three.js 🛠
+- Animation (GSAP, Framer-motion, React-spring, SASS animations) 🌈
+
+**I also known**
+- Node.js
+- SQL
+- Socket.io 
+
+Have a nice trip in my Github, I advise you the pinned projects 😀
