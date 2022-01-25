@@ -8,7 +8,7 @@ I am currently in the BeCode bootcamp, so every project with the name "BeCode...
 
 **My prefer technologies are**
 - React.js (+ Next.js) ❤️
-- Three.js 🛠
+- Three.js + PixiJS 🛠
 - Animation (GSAP, Framer-motion, React-spring, SASS animations) 🌈
 
 **I also known**
